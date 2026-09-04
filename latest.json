@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Redesigns the compact mission bar with consistent zone badges, aligned Mission and Up Next rows, visible pin and settings controls, 120% default scaling with a 150% option, and instant web-to-overlay settings sync.",
-  "pub_date": "2026-09-04T18:40:51Z",
+  "version": "0.1.7",
+  "notes": "Adds attached pin and settings controls on the desktop and in-game, draggable width resizing with saved width, a calmer neutral default theme, refined typography and location badges, tighter normal mission text, and explicit Windows shortcut icon packaging.",
+  "pub_date": "2026-09-04T19:00:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTDhzZzdJU29oYzJORlBleHQzR2RuaDBON2NjcFI4YktWYk1NZnEwM3lvdHRDbjcrd2J3QXFpcFhERGlUNTR0YWdzMm9kZnY3NXpMS0E5a0hGRy84MG5MSzdJamZ3aGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ3MjMzCWZpbGU6UG9FMiBCdWRkeSBPdmVybGF5XzAuMS42X3g2NC1zZXR1cC5leGUKdkdUd2JNSGl4VGo4L1lsWVlGa1ZwM2tndU5qMVdMcUdrcWhiSzY2bEN1TTBZa21mdzVYWUd3L1pONEhxcURKRjhFYTNUWityOHNBOUFHTFRDbkxGQmc9PQo=",
-      "url": "https://github.com/Randall-rr/poe2-buddy-releases/releases/download/v0.1.6/PoE2-Buddy-Overlay_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTDhzZzdJU29oYzJFc1ZGNVVBMSt0QnM2NHAxWHNtRlFwQWJ3b24yWktGL2V6RUNQZWZDYVlNOXd3SnoxQUc0VDNyZ1AxdTcxZ29oZWlVN2NQdUF0aEJDbmwwMkRzL3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ4Mzg4CWZpbGU6UG9FMiBCdWRkeSBPdmVybGF5XzAuMS43X3g2NC1zZXR1cC5leGUKY3NIV1dSTzhDSGxMOW0vV2FNUE5TWSs5eTViS2hCc3R3OWJRNlJWbjhpV1h4YjM1RXR2WDVJaTNQWHNGb3ZRdi9XL3dvbkVqVXRlRUVFaXFXdGNwRHc9PQo=",
+      "url": "https://github.com/Randall-rr/poe2-buddy-releases/releases/download/v0.1.7/PoE2-Buddy-Overlay_0.1.7_x64-setup.exe"
     }
   }
 }
