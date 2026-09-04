@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Adds signed automatic update checks, download progress, and one-click installation from the overlay or tray menu.",
-  "pub_date": "2026-09-04T17:09:37Z",
+  "version": "0.1.3",
+  "notes": "Makes the mission bar compact and movable, fixes pin/unpin, aligns mission text with the web app, moves update status into a temporary toast, and shows Client.txt connection on the tray icon.",
+  "pub_date": "2026-09-04T17:30:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTDhzZzdJU29oYytNU3ZiUXRETGMrc0w1NHhMaUlVQW5DYVQ1cFJKTWhPdzE4Q3pqeDZNakIvQzM2ZERYNGJQbWdjNG93Yld2VXk1UG9GcXhyMHR2ZVhEdzI5Z1dLMVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQxNzQ0CWZpbGU6UG9FMiBCdWRkeSBPdmVybGF5XzAuMS4yX3g2NC1zZXR1cC5leGUKR00vSEM5UkIwTnlxcUhFeG5TbWVON0xjK3pWOSs3NVoyQVlsVEgxL1gyUFU2czJqZUVWTWZuM3cvdUM3RkRtcTdtd0RlUFMyR0FaeURDYTBxZURxQ2c9PQo=",
-      "url": "https://github.com/Randall-rr/poe2-buddy-releases/releases/download/v0.1.2/PoE2-Buddy-Overlay_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTDhzZzdJU29oY3crV1VRcnlOYyt5OEpORjFnQUNTdzdFVVp3RVhwWkJaK3pVVlAzMXY5ZUNxSkFsYXB0ZjZIbW9BQnQ4OWsyd3lSZENhcXM5MU9VckZqQzZWRmg4R0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQzMDIyCWZpbGU6UG9FMiBCdWRkeSBPdmVybGF5XzAuMS4zX3g2NC1zZXR1cC5leGUKanV4TFBJSHdhc1lpZUl1V1Z5M3JpK3dtNUo0Um84akRtYnU2dENzQWxYVWZJa0QvZkNlL0d1UzBFVWh5TGlMNVEyaGpwdkkyRmMwZk5LSzVmZFRnRHc9PQo=",
+      "url": "https://github.com/Randall-rr/poe2-buddy-releases/releases/download/v0.1.3/PoE2-Buddy-Overlay_0.1.3_x64-setup.exe"
     }
   }
 }
