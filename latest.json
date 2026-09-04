@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Adds Short and Normal mission text, a narrower responsive mission bar, reliable in-bar pinning, scale/background/accent controls, tray content settings, improved character-aware route sync, and the new PoE2 Buddy icon.",
-  "pub_date": "2026-09-04T17:54:18Z",
+  "version": "0.1.5",
+  "notes": "Makes the mission bar substantially narrower, moves the zone above the mission, removes the overlay shadow, adds a reliable always-clickable pin control, and shows active settings with checkmarks in the tray menu.",
+  "pub_date": "2026-09-04T18:20:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTDhzZzdJU29oY3lJZm1taTVtaC9iczZ5dXNtUWpZaXpnUkg0S3phTHBBODdZYjJ5dDdnK2VoSkxFREk3d2dCbU5oTTlqQTNGUkVDN3hoWVZMU0pJZVpsa2NRSmVpNWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ0NDMyCWZpbGU6UG9FMiBCdWRkeSBPdmVybGF5XzAuMS40X3g2NC1zZXR1cC5leGUKRzZKV1R1V09iTVhOTU12V2pCNHY4RmpWanVhVG84VE8yV3VRdnNuMnk5VllxbE02aHJoZk1uWmFCNm4yamJTVDFXTlh6R0NSRUZiRWgwYlBMTmlBQnc9PQo=",
-      "url": "https://github.com/Randall-rr/poe2-buddy-releases/releases/download/v0.1.4/PoE2-Buddy-Overlay_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTDhzZzdJU29oYzBOWndLTUpWOEpiUVNqdlFSYnR2TzNyY0tyWlV6YkFSVE40YTQ5amJSMXF2cEZiUkEzbGx1S0JvOG8xV3pWVFlRWm9yN2xnUWpISXpMM3ZoRjF3UGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ2MDAxCWZpbGU6UG9FMiBCdWRkeSBPdmVybGF5XzAuMS41X3g2NC1zZXR1cC5leGUKcnV1cDRwM25sWVBOMGFKeUpGaER6cXhzRFhhWStHUGNEK2hrQUR5V05YUCtZQm1rckRJblhabEhWRG9FaTVoWnJwNDRldmRBTzZTdWZzT2NlQnp3QXc9PQo=",
+      "url": "https://github.com/Randall-rr/poe2-buddy-releases/releases/download/v0.1.5/PoE2-Buddy-Overlay_0.1.5_x64-setup.exe"
     }
   }
 }
